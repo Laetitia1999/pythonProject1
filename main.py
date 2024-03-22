@@ -61,4 +61,3 @@ for graph_config in config['graphics']:
         view.graph(table1, graph_config['options'])
     elif graph_config['id'] == 2:
         view.graph(table2, graph_config['options'])
-"""
